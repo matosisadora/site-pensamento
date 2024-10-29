@@ -1,0 +1,17 @@
+.rotina {
+    color: blue;
+}
+
+body {
+    font-family: "Oswald", sans-serif;
+    text-align: center;
+    background-color: beige;
+}
+
+aside {
+    float: right;
+}
+
+li {
+    list-style: none;
+}
